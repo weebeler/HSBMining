@@ -1,0 +1,7 @@
+name: HSBMining
+version: '0.1'
+main: org.weebeler.hSBMining.HSBMining
+api-version: '1.21'
+load: STARTUP
+authors: [ weebeler ]
+description: Recreation of the custom mining system from Hypixel Skyblock
